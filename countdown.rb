@@ -1,5 +1,5 @@
 #write your code here
-# 
+#
 # def countdown(n)
 #   while n > 0
 #     if n == 1
@@ -12,7 +12,7 @@
 #   "HAPPY NEW YEAR!"
 #   end
 # end
-# 
+#
 # def countdown_with_sleep(n)
 #   while n > 0
 #     if n == 1
@@ -27,9 +27,6 @@
 #   end
 #   puts "HAPPY NEW YEAR!"
 # end
-# 
-# countdown_with_sleep(5)
-
 
 
 def coutdown(n)
